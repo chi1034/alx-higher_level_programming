@@ -1,0 +1,4 @@
+mport__('3-write_file').write_file
+
+nb_characters = write_file("my_first_file.txt", "School is so cool!\n")
+print(nb_characters)
